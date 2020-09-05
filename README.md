@@ -18,7 +18,7 @@ In the web browser we can select either Android /IOS simulator /webbrowser to vi
 --------------------------------------------------------------------------
 To setup App:
 
-1. open my github link and down  MyMovies  
+1. open my github link and clone  MyMovies  
 2. cd MyMovies
 3. npm install(it will automatically import all node modules ) 
 4.npm start /expo start
